@@ -8,4 +8,4 @@ From http://barbarian.1987.free.fr/indexEN.htm this is:
 
 > ... an "open source" clone ....
 
-... of (Barbarian: The Ultimate Warrior)[https://en.wikipedia.org/wiki/Barbarian:_The_Ultimate_Warrior]
+... of [Barbarian: The Ultimate Warrior](https://en.wikipedia.org/wiki/Barbarian:_The_Ultimate_Warrior)
